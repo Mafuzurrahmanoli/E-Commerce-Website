@@ -3,4 +3,10 @@
     padding: 0;
     outline: 0;
     background-color: aqua;
+
+}
+
+span .text-carosel{
+    color: black;
+    background-color:brown;
 }
